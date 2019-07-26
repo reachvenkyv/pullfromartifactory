@@ -14,7 +14,7 @@
     <stagingRepository>https://repo.maven.apache.org/maven2/</stagingRepository>
   </properties>
 	<scm>
-	    <developerConnection>scm:git:file:///D:/projects/repo/mavenguide</developerConnection>
+	    <developerConnection>scm:git:file:///D:/projects/repo/pullfromartifactory</developerConnection>
   </scm>
 	  <distributionManagement>
 	  
